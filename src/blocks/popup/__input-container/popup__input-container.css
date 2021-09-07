@@ -1,0 +1,12 @@
+.popup__input-container {
+  position: relative;
+	max-width: 358px;
+	font-size: 14px;
+  line-height: 17px;
+  border: 0;
+  outline: none;
+}
+
+.popup__input-container:last-of-type {
+  margin-bottom: 0;
+}

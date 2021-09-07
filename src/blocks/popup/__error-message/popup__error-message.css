@@ -1,0 +1,14 @@
+.popup__error-message {
+  display: none;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+	border-bottom-color: red;
+	margin: 0 36px 13px;
+}
+
+@media (max-width: 768px) {
+	.popup__error-message {
+		margin: 0 22px 13px;
+	}
+}
