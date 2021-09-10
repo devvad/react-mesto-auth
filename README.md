@@ -9,4 +9,4 @@ Stack: React.js, JSX, БЭМ.
 
 Для запуска проекта в командной строке необходимо ввести команду npm start.
 
-Ссылка на проект: https://devvad.github.io/react-mesto-auth
+Ссылка на проект: https://github.com/devvad/react-mesto-auth
